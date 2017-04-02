@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BooksSearch</string>
+    <string name="search_button">search</string>
+    <string name="search_hint">Enter keywords</string>
+    <string name="title_tag">Title:</string>
+    <string name="author_tag">Author(s):</string>
+    <string name="no_results">No books were found.</string>
+    <string name="no_weblink">Web link not found for this book.</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="user_instructions">Please enter your keywords in the textbox above and press the search button.</string>
+</resources>
